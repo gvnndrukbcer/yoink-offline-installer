@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Clipboard+Shelf-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Clipboard+Helper-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Yoink Free Installer** — Yoink is a macOS and iOS app that provides a temporary file shelf for drag-and-drop operations. Works without internet access, no account required. Full offline installation.
+**💻 Yoink Free Installer** — Yoink is a macOS application that provides a temporary staging area for files during drag-and-drop operations. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Yoink
 
-Yoink is a macOS and iOS app that provides a temporary file shelf for drag-and-drop operations. When you start dragging a file, Yoink appears as a drop target you can hold files in while navigating to the destination — eliminating the need to split windows for file moves.
+Yoink is a macOS application that provides a temporary staging area for files during drag-and-drop operations. When dragging files, Yoink's shelf appears at the screen edge, allowing you to drop files there temporarily, navigate to the destination folder, and then drag from the shelf to complete the transfer. Eliminates the need to open multiple Finder windows for file moving operations.
 
 ---
 
 ## ❌ Problem: Yoink is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Paid App** — Requires purchase from Mac App Store
-- **Single Purpose** — Solves one specific drag-and-drop friction point
-- **Accessibility Permission** — Requires Accessibility permission to detect drag operations
+- **macOS Only** — No Windows version
+- **Use Case Specificity** — Most useful for drag-and-drop workflows; less useful for copy-paste users
+- **Screen Real Estate** — The shelf panel takes small screen space when active
+- **Paid App** — One-time purchase required from Mac App Store
 
 ---
 
@@ -121,7 +121,7 @@ Yoink is a macOS and iOS app that provides a temporary file shelf for drag-and-d
 
 ---
 
-**Yoink Free Installer** — Yoink is a macOS and iOS app that provides a temporary file shelf for drag-and-drop operations. Install without internet connection today!
+**Yoink Free Installer** — Yoink is a macOS application that provides a temporary staging area for files during drag-and-drop operations. Install without internet connection today!
 
 <div align="center">
 
